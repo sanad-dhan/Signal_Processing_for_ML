@@ -17,6 +17,7 @@ For the Project, please install the following toolboxes
 5) Statistics and Machine Learning toolbox
 
 To download the dataset, run these commands in Google colab
+
 !wget http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
 
 !mkdir speech_data
