@@ -27,3 +27,14 @@ To download the dataset, run these commands in Google colab
 from google.colab import files
 
 files.download('speech_commands_final.zip')
+
+For the Final codes folder (Final project experiments) please install the following toolboxes on MATLAB R2025b
+1) Signal Processing Toolbox
+2) Wavelet Toolbox
+3) Audio Toolbox
+4) DSP System Toolbox
+5) Statistics and Machine Learning toolbox
+6) Computer Cision Toolbox
+7) Image Processing Toolbox
+8) RF Toolbox
+9) RF PCB Toolbox
